@@ -1,0 +1,16 @@
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowDAL.deps.json
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowDAL.runtimeconfig.json
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowDAL.runtimeconfig.dev.json
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowDAL.dll
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowDAL.pdb
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowEntity.dll
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowEntity.pdb
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.csproj.AssemblyReference.cache
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.AssemblyInfoInputs.cache
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.AssemblyInfo.cs
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.csproj.CoreCompileInputs.cache
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.csproj.CopyComplete
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.dll
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.pdb
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.genruntimeconfig.cache

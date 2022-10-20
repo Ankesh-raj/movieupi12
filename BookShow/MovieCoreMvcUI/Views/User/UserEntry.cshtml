@@ -1,0 +1,49 @@
+﻿@model BookShowEntity.User;
+
+
+
+<h1 style="text-align:center; color:blueviolet"> User Entry</h1>
+<div>
+
+    <hr />
+    <a asp-controller="User" asp-action="Index">Index</a>
+    <hr />
+</div>
+
+<form method="post" enctype="multipart/form-data">
+  
+    
+    </div>
+    <div class="group-form">
+        <label>User Name</label>
+        <input type="text" asp-for="Name" class="form-control" placeholder="enter user name" required />
+    </div>
+
+    <div class="group-form">
+        <label>User Email</label>
+        <input type="text" asp-for="Email" class="form-control" placeholder="enter user email" required />
+    </div>
+
+    <div class="group-form">
+        <label>User Password</label>
+        <input type="text" asp-for="Password" class="form-control" placeholder="enter user password" required />
+    </div>
+
+    <input type="submit" value="Login" class="btn btn-outline-success" />
+    <input type="button" value="reset" class="btn btn-outline-secondary" />
+    <hr />
+
+    @if (ViewBag.status == "Ok")
+    {
+        <div class="alert alert-success">
+            @ViewBag.message
+        </div>
+    }
+    else if (ViewBag.status == "Error")
+    {
+        <div class="alert alert-danger">
+            @ViewBag.message
+        </div>
+    }
+</form>
+

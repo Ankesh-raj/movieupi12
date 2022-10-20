@@ -1,0 +1,61 @@
+﻿@model BookShowEntity.Admin
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/Layout1.cshtml";
+
+}
+
+<h1>Login</h1>
+
+    <section class="vh-100" style="background-color: #508bfc;">
+        <form method="post">
+            <div class="container py-5 h-100">
+                <div class="row d-flex justify-content-center align-items-center h-100">
+                    <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+                        <div class="card shadow-2-strong" style="border-radius: 1rem;">
+                            <div class="card-body p-5 text-center">
+
+                                <h3 class="mb-5">Sign in</h3>
+
+                                <div class="form-outline mb-4">
+                                    <input type="email"  class="form-control form-control-lg " asp-for="Name" />
+                                    <label class="form-label" for="typeEmailX-2">Email</label>
+                                </div>
+
+                                <div class="form-outline mb-4">
+                                    <input type="password"  class="form-control form-control-lg" asp-for="Password" />
+                                    <label class="form-label" for="typePasswordX-2">Password</label>
+                                </div>
+
+                                <input type="submit" class="btn btn-primary" value="Login">
+                                <button type="button" class="btn btn-secondary">Reset</button>
+
+
+                                <hr />
+                                @if (ViewBag.status == "Ok")
+                                {
+                                    <div class="alert alert-success">
+                                        @ViewBag.message
+                                    </div>
+                                }
+                                else if (ViewBag.status == "Error")
+                                {
+                                    <div class="alert alert-danger">
+                                        @ViewBag.message
+                                    </div>
+                                }
+                                <hr />
+
+                                <hr />
+                                <a asp-controller="User" asp-action="Register">Register</a>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+
+    </section>
+

@@ -1,0 +1,13 @@
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowEntity\bin\Debug\netcoreapp3.1\BookShowEntity.deps.json
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowEntity\bin\Debug\netcoreapp3.1\BookShowEntity.runtimeconfig.json
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowEntity\bin\Debug\netcoreapp3.1\BookShowEntity.runtimeconfig.dev.json
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowEntity\bin\Debug\netcoreapp3.1\BookShowEntity.dll
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowEntity\bin\Debug\netcoreapp3.1\BookShowEntity.pdb
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.csproj.AssemblyReference.cache
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.AssemblyInfoInputs.cache
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.AssemblyInfo.cs
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.csproj.CoreCompileInputs.cache
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.dll
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.pdb
+C:\Users\ankesh.raj\Desktop\Evening-main\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.genruntimeconfig.cache

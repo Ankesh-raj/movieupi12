@@ -1,0 +1,42 @@
+﻿@model IEnumerable<BookShowEntity.Admin>;
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Layout1.cshtml";
+
+}
+
+<h1>Index</h1>
+
+</div>
+<div class="row">
+    <div class="col-12">
+
+        <h1 style="text-align:center; color:aquamarine">users</h1>
+        <hr />
+        <table class="table table-light table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>User Id</th>
+                    <th>User Name</th>
+                    <th>User Email</th>
+                    <th>User Password</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.Password</td>
+
+                   
+
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>
