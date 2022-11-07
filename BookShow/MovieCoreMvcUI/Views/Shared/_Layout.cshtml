@@ -11,7 +11,7 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">MovieCoreMvcUI</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"> Book My show</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -20,40 +20,37 @@
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
+                        </li>&nbsp;&nbsp;&nbsp;
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Movie" asp-action="Index">Movie</a>
-                        </li>
+                        </li>&nbsp;&nbsp;&nbsp;
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Theatre" asp-action="Index">Theatre</a>
-                        </li>
+                        </li>&nbsp;&nbsp;&nbsp;
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Show" asp-action="Index">Show Timing</a>
-                        </li>
+                        </li>&nbsp;&nbsp;&nbsp;
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Index">User</a>
-                        </li>
-                      @*  <li class="nav-item">
+                        </li>&nbsp;&nbsp;&nbsp;
+                       @* <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Register">Register</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Login">Login</a>
-                        </li>
+                        </li>*@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Book" asp-action="Index">Book Ticket</a>
-                        </li>*@
-                    </ul>
-                    
-                    <li class="nav-item">
-                        <a class="nav-link text-danger" style="color:red; outline:solid" asp-area="" asp-controller="SignOut" asp-action="ShowUser">Sign Out</a>
-                   
-                        </li>
-
+                       </li>
+                     </ul>
+                </div>
+                <div>
+                    <a class="nav-link text-danger" style="color:red; outline:solid" asp-area="" asp-controller="Home" asp-action="Index"> Sign Out</a>
                 </div>
             </div>
         </nav>
     </header>
-  @*  <div class="container-fluid" style="height:100px;background-color:aqua"> hellow</div>*@
+  
 
     <div class="container">
         <main role="main" class="pb-3">

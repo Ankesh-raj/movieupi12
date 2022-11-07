@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zidqN9My8UTTmOkvPrk2PbdCb1YIL67y6vDbOrP3dhRsmQ1sy5IkxVJigeu0nYnY6o/P/YQj+j2xoYWH9T6rxg==",
+  "dgSpecHash": "n/m2ftuUUsx0PhshClnQLoOcfIfgz6Y5iBwaJc0IqDMO/NahULZgdYckt7dxtRpP6JPpc4Nc5UQXVqUCzx+4qw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ankesh.raj\\Desktop\\Evening-main\\BookShow\\MovieCoreMvcUI\\MovieCoreMvcUI.csproj",
+  "projectFilePath": "C:\\Users\\ankesh.raj\\Desktop\\Ankesh Moviapp\\movieupi12\\BookShow\\MovieCoreMvcUI\\MovieCoreMvcUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ankesh.raj\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ankesh.raj\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

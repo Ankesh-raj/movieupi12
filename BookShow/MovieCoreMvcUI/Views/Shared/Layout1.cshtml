@@ -41,18 +41,21 @@
                           <li class="nav-item">
                            
                             <a class="nav-link text-dark,btn btn-info" asp-area="" asp-controller="User" asp-action="Register">Register</a>
-                        </li> &nbsp,&nbsp
+                        </li> &nbsp;&nbsp;&nbsp;
                       
                         <li class="nav-item">
                             <a class="nav-link text-dark,,btn btn-primary" asp-area="" asp-controller="User" asp-action="Login"> User Login</a>
-                        </li>
+                        </li>&nbsp;&nbsp;&nbsp;
                         <li class="nav-item">
                             <a class="nav-link text-dark,,btn btn-primary" asp-area="" asp-controller="Admin" asp-action="Login">Admin Login</a>
-                        </li>
+                        </li>&nbsp;&nbsp;&nbsp;
                      @*   <li class="nav-item">
                         <a class="nav-link text-dark" asp-area="" asp-controller="Book" asp-action="Index">Book Ticket</a>
                         </li>*@
                     </ul>
+                </div>
+                <div>
+                    <a class="nav-link text-danger" style="color:red; outline:solid" asp-area="" asp-controller="Home" asp-action="Index"> Sign Out</a>
                 </div>
             </div>
         </nav>

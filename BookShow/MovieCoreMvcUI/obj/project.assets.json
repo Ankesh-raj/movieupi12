@@ -8864,11 +8864,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ankesh.raj\\Desktop\\Evening-main\\BookShow\\MovieCoreMvcUI\\MovieCoreMvcUI.csproj",
+      "projectUniqueName": "C:\\Users\\ankesh.raj\\Desktop\\Ankesh Moviapp\\movieupi12\\BookShow\\MovieCoreMvcUI\\MovieCoreMvcUI.csproj",
       "projectName": "MovieCoreMvcUI",
-      "projectPath": "C:\\Users\\ankesh.raj\\Desktop\\Evening-main\\BookShow\\MovieCoreMvcUI\\MovieCoreMvcUI.csproj",
+      "projectPath": "C:\\Users\\ankesh.raj\\Desktop\\Ankesh Moviapp\\movieupi12\\BookShow\\MovieCoreMvcUI\\MovieCoreMvcUI.csproj",
       "packagesPath": "C:\\Users\\ankesh.raj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ankesh.raj\\Desktop\\Evening-main\\BookShow\\MovieCoreMvcUI\\obj\\",
+      "outputPath": "C:\\Users\\ankesh.raj\\Desktop\\Ankesh Moviapp\\movieupi12\\BookShow\\MovieCoreMvcUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ankesh.raj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8885,8 +8885,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ankesh.raj\\Desktop\\Evening-main\\BookShow\\BookShowEntity\\BookShowEntity.csproj": {
-              "projectPath": "C:\\Users\\ankesh.raj\\Desktop\\Evening-main\\BookShow\\BookShowEntity\\BookShowEntity.csproj"
+            "C:\\Users\\ankesh.raj\\Desktop\\Ankesh Moviapp\\movieupi12\\BookShow\\BookShowEntity\\BookShowEntity.csproj": {
+              "projectPath": "C:\\Users\\ankesh.raj\\Desktop\\Ankesh Moviapp\\movieupi12\\BookShow\\BookShowEntity\\BookShowEntity.csproj"
             }
           }
         }

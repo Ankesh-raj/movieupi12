@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UJACV9j50RJhI+8KOsvyYeVJH6RtVjQKN+PmcUE6aMBUTATvJhJLbfr5LHUceHPUq98zcMsipnOmjBDEt/pRTg==",
+  "dgSpecHash": "ZPefuqU6HIAcofNUVHiy1WNGZQRlCMgTPYfddZofgcKFFMxZ0do8GOsxr0eZSL3GEyaA5f25Cks6I5P1gDv8pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ankesh.raj\\Desktop\\Evening-main\\BookShow\\MovieAppCoreAPI\\MovieAppCoreAPI.csproj",
+  "projectFilePath": "C:\\Users\\ankesh.raj\\Desktop\\Ankesh Moviapp\\movieupi12\\BookShow\\MovieAppCoreAPI\\MovieAppCoreAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ankesh.raj\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\ankesh.raj\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -49,6 +49,7 @@
     "C:\\Users\\ankesh.raj\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ankesh.raj\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\ankesh.raj\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ankesh.raj\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\ankesh.raj\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\ankesh.raj\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\ankesh.raj\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
